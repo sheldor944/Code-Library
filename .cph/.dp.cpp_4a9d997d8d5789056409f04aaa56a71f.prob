@@ -1,0 +1,1 @@
+{"name":"Local: dp","url":"c:\\Code\\dp.cpp","tests":[{"id":1697570079267,"input":"4\n5 C\n6 B\n16 BAC\n4 A\n","output":""},{"id":1697571882888,"input":"7 1\naaaaaaa\nb\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\dp.cpp","group":"local","local":true}

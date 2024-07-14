@@ -1,0 +1,1 @@
+{"name":"Local: DP_CSES","url":"c:\\Code\\DP_CSES.cpp","tests":[{"id":1714593848679,"input":"10 200\n2 3 4 8 9 11 14 16 17 19","output":""},{"id":1714595338954,"input":"4 10\n2 3 5 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\DP_CSES.cpp","group":"local","local":true}

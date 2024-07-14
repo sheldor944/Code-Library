@@ -1,0 +1,1 @@
+{"name":"Local: kk","url":"c:\\Code\\kk.cpp","tests":[{"id":1708778785645,"input":"7\natcoder\n4\nr a\nt e\nd v\na r","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\kk.cpp","group":"local","local":true}

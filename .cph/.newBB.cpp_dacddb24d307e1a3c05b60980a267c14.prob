@@ -1,0 +1,1 @@
+{"name":"Local: newBB","url":"c:\\Code\\newBB.cpp","tests":[{"id":1714402814542,"input":"5\n10\n0000\n11000\n101011\n01101001\n","output":""},{"id":1714402834369,"input":"1\n01101001","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\newBB.cpp","group":"local","local":true}

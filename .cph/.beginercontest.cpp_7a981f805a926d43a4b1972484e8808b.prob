@@ -1,0 +1,1 @@
+{"name":"Local: beginercontest","url":"c:\\Code\\beginercontest.cpp","tests":[{"id":1695912762584,"input":"1\n10\n-45 -32 -15 5 12 20 28 40 53 66\n10\n-88 -75 -62 -48 -35 -22 2 15 28 40\n10\n13 25 38 42 57 68 75 82 93 100","output":"6\n1\n9999999966"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\beginercontest.cpp","group":"local","local":true}

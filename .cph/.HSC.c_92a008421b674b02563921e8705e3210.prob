@@ -1,0 +1,1 @@
+{"name":"Local: HSC","url":"c:\\Code\\HSC.c","tests":[{"id":1716732820928,"input":"4 15\n100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\HSC.c","group":"local","local":true}

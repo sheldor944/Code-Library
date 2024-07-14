@@ -1,0 +1,1 @@
+{"name":"Local: DpTree","url":"c:\\Code\\DpTree.cpp","tests":[{"id":1708845501552,"input":"7\n4 2\n5 7\n3 4\n6 3\n1 3\n4 5\n","output":"8\n3 4 6 2 7 1 5\n"},{"id":1708963429789,"input":"10\n1 2\n1 3\n1 4\n1 5\n1 6\n5 7\n5 8\n6 9\n2 10","output":"4\n2 1 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\DpTree.cpp","group":"local","local":true}

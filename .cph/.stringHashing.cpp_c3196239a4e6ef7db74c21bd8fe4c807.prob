@@ -1,0 +1,1 @@
+{"name":"Local: stringHashing","url":"c:\\Code\\stringHashing.cpp","tests":[{"id":1692395113113,"input":"1\nacbba\nabcdfdcecba\na\nabbaxyzyx\ncodeforces\nabbca\n","output":"a\nabcdfdcba\nxyzyx\nc\nabba"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\stringHashing.cpp","group":"local","local":true}

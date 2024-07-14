@@ -1,0 +1,1 @@
+{"name":"Local: eularPath","url":"c:\\Code\\AlgoLab\\eularPath.cpp","tests":[{"id":1693322415191,"input":"10 18\n1 5\n1 6\n7 4\n6 7\n3 1\n7 1\n5 4\n2 9\n5 10\n10 7\n9 3\n8 6\n7 8\n8 2\n4 9\n4 8\n9 8\n6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\AlgoLab\\eularPath.cpp","group":"local","local":true}

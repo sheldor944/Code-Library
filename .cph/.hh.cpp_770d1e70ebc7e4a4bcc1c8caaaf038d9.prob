@@ -1,0 +1,1 @@
+{"name":"Local: hh","url":"c:\\Code\\hh.cpp","tests":[{"id":1709649809376,"input":"1\naalalallzglglg\n","output":"2\n1 1\n2 2\n-1\n3\n1 3\n4 5\n6 8\n3\n1 1\n2 2\n3 3\n-1"},{"id":1709736291908,"input":"1\n4\n4 4 4 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\hh.cpp","group":"local","local":true}

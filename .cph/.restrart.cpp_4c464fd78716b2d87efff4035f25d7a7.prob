@@ -1,0 +1,1 @@
+{"name":"Local: restrart","url":"c:\\Code\\restrart.cpp","tests":[{"id":1704605739385,"input":"5\n3","output":"Bob\nAlice\nBob\nAlice\nBob\nBob\nAlice\nAlice\nBob\nBob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\restrart.cpp","group":"local","local":true}

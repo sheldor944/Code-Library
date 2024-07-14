@@ -1,0 +1,1 @@
+{"name":"Local: ncpc","url":"c:\\Code\\ncpc.cpp","tests":[{"id":1708428648420,"input":"2\n1 2\n","output":"2 1\n3 1\n4 3\n5 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\ncpc.cpp","group":"local","local":true}

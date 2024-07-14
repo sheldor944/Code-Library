@@ -1,0 +1,1 @@
+{"name":"Local: gen","url":"c:\\Code\\StressTest\\gen.cpp","tests":[{"id":1714940091428,"input":"100000009387\n100000024746","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\StressTest\\gen.cpp","group":"local","local":true}

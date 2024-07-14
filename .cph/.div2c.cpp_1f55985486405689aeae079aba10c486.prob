@@ -1,0 +1,1 @@
+{"name":"Local: div2c","url":"c:\\Code\\div2c.cpp","tests":[{"id":1691252151963,"input":"8 4\n1 2 -1 3 1 -5 1 4\n2 2 6\n1 4 -2\n2 2 6\n2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\div2c.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: manachers","url":"c:\\Code\\manachers.cpp","tests":[{"id":1692085315255,"input":"5\na\nabcdfdcecba\nabbaxyzyx\ncodeforces\nabcba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\manachers.cpp","group":"local","local":true}

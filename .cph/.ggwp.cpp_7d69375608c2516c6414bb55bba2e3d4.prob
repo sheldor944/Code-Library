@@ -1,0 +1,1 @@
+{"name":"Local: ggwp","url":"c:\\Code\\ggwp.cpp","tests":[{"id":1693406626218,"input":"4\n5 5 3\n--+\n5 2 3\n++-\n5 4 2\n-+\n5 0 7\n++++-++","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\ggwp.cpp","group":"local","local":true}

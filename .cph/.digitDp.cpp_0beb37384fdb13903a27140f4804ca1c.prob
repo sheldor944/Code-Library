@@ -1,0 +1,1 @@
+{"name":"Local: digitDp","url":"c:\\Code\\digitDp.cpp","tests":[{"id":1714768373917,"input":"3\n3 2\n1 3 6\n3 2\n1 2 3\n3 3\n1 4 6\n","output":""},{"id":1714852429008,"input":"2 6\n10\n99","output":""},{"id":1714854238100,"input":"43 3\n587\n850","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\digitDp.cpp","group":"local","local":true}

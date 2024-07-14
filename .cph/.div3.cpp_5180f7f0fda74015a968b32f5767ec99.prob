@@ -1,0 +1,1 @@
+{"name":"Local: div3","url":"c:\\Code\\div3.cpp","tests":[{"id":1709045812155,"input":"1\n9\n5 10 9 6 8 3 10 7 3\n1\n8 56\n1 12\n9 3\n1 27\n5 45","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\div3.cpp","group":"local","local":true}
