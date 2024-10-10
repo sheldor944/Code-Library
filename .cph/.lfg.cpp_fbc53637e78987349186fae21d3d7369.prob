@@ -1,1 +1,1 @@
-{"name":"Local: lfg","url":"c:\\Code\\lfg.cpp","tests":[{"id":1719737852316,"input":"2\n4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\lfg.cpp","group":"local","local":true}
+{"name":"Local: lfg","url":"c:\\Code\\lfg.cpp","tests":[{"id":1719737852316,"input":"1\n2 7\nazekynr\nazreykn","output":"azekyNr\nAzREyKn"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\lfg.cpp","group":"local","local":true}

@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:DevSkillerTest}",
+            "name": "Debug DevSkillerTest",
+            "program": "${workspaceFolder:DevSkillerTest}\\.build\\debug\\DevSkillerTest.exe",
+            "preLaunchTask": "swift: Build Debug DevSkillerTest"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:DevSkillerTest}",
+            "name": "Release DevSkillerTest",
+            "program": "${workspaceFolder:DevSkillerTest}\\.build\\release\\DevSkillerTest.exe",
+            "preLaunchTask": "swift: Build Release DevSkillerTest"
+        }
+    ]
+}

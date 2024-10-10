@@ -1,0 +1,1 @@
+{"name":"Local: xenia","url":"c:\\Code\\xenia.cpp","tests":[{"id":1726560271643,"input":"5\n1 2\n2 3\n3 4\n4 5","output":""},{"id":1726569029056,"input":"10 1\n10 7\n10 6\n1 4\n7 8\n5 1\n6 2\n7 5\n6 3\n7 9\n2 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\xenia.cpp","group":"local","local":true}

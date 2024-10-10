@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:againSwift}",
+            "name": "Debug againSwift",
+            "program": "${workspaceFolder:againSwift}\\.build\\debug\\againSwift.exe",
+            "preLaunchTask": "swift: Build Debug againSwift"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:againSwift}",
+            "name": "Release againSwift",
+            "program": "${workspaceFolder:againSwift}\\.build\\release\\againSwift.exe",
+            "preLaunchTask": "swift: Build Release againSwift"
+        }
+    ]
+}

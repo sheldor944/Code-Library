@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:helloswift}",
+            "name": "Debug helloswift",
+            "program": "${workspaceFolder:helloswift}\\.build\\debug\\helloswift.exe",
+            "preLaunchTask": "swift: Build Debug helloswift"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:helloswift}",
+            "name": "Release helloswift",
+            "program": "${workspaceFolder:helloswift}\\.build\\release\\helloswift.exe",
+            "preLaunchTask": "swift: Build Release helloswift"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:helloswift}",
+            "name": "Debug WeatherApp",
+            "program": "${workspaceFolder:helloswift}\\.build\\debug\\WeatherApp.exe",
+            "preLaunchTask": "swift: Build Debug WeatherApp"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:helloswift}",
+            "name": "Release WeatherApp",
+            "program": "${workspaceFolder:helloswift}\\.build\\release\\WeatherApp.exe",
+            "preLaunchTask": "swift: Build Release WeatherApp"
+        }
+    ]
+}

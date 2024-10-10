@@ -1,0 +1,1 @@
+{"name":"Local: bob23","url":"c:\\Code\\bob23.cpp","tests":[{"id":1728065413651,"input":"3\n239 77 169\n2\n2 3\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\bob23.cpp","group":"local","local":true}
